@@ -32,7 +32,7 @@ VIDEO:  https://youtu.be/qVbI_K9u1Zc
                
 --stayboogyUP:  
 
-All Perks, Primary Ammo(*), Secondary Ammo + No Reload(*), Grenades(*), Flashbangs(*), Claymores(*), C4(*)
+All Perks, Primary Ammo*, Secondary Ammo + No Reload*, Grenades*, Flashbangs*, Claymores*, C4*
 
 --God Mode:  
 

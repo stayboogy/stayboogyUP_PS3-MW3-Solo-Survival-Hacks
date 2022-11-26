@@ -1,80 +1,80 @@
+# stayboogyUP - PS3 MW3 Solo Survival Hacks - RTM and SPRX - CEX CFW
 
-# stayboogyUP PS3 MW3 Solo Survival Hacks -- SPRX and RTM for CEX CFW
+CEX CFW PS3 MW3 Solo Survival Hacks 
 
+VIDEO:  https://youtu.be/qVbI_K9u1Zc
 
-#stayboogyUP MW3 Solo Survival SPRX for CEX CFW
+# RTM
 
-This thing does everything the RTM Tool does, but without any user interaction.
+--Download:  
 
-All the hacks happen on a revolving schedule so they are always active without the player having to hit a button or open a menu.
+https://github.com/stayboogy/stayboogyUP_PS3-MW3-Solo-Survival-Hacks/releases/tag/stayboogyUP-22.11.25.rtm.sprx
 
-God Mode is not activated in the SPRX.  If you require God Mode, then use the RTM Tool.
+--Requirements: 
 
+CEX CFW 4.88 Cobra Mode On (Use EVILNAT, all others are garbage) CCAPI 2.80_r9 installed to PC and PS3
 
-# stayboogyUP MW3 Solo Survival RTM Tool
+--Install:  
 
-Call of Duty Modern Warfare 3 Solo Survival RTM Tool - CEX CFW CCAPI
+extract the zip, run CCAPI-install.cmd (this only installs the proper dll for my tool)
 
-works on cfw 4.88 evilnat via CCAPI 2.80r9 on the PS3 and PC
+--How to Use:  
 
-make sure and install CCAPI on your computer and make sure to install my ccapi.dll using the included CCAPI-install.cmd
+make sure Computer and PS3 are connected to same network
+make sure you have connected with CCAPI Console and given your PS3 a name and verifed it works at least once before this
+make sure MW3 is running already--absolutely necessary
+click "Connect + Attach" and choose your ps3 which should be in the popup list
+               
+VIDEO:  https://youtu.be/qVbI_K9u1Zc
+               
+--stayboogyUP:  
 
-ABSOLUTELY THE BEST SOLO SURVIVAL RTM TOOL AVAILABLE THAT ACTUALLY WORKS!!!
+All Perks, Primary Ammo(*), Secondary Ammo + No Reload(*), Grenades(*), Flashbangs(*), Claymores(*), C4(*)
 
-stayboogyUP!!!
+--God Mode:  
 
+The ONLY WORKING GOD MODE IN SURVIVAL SOLO(**)
 
+(*) must own to get ammo for it; don't have anything in LEFT OR RIGHT DPAD (activate before getting sentry or air support with at least some of each item to see it work best)--will change when your configuration changes, ie. picking up a weapon or buying ammo which there is no need for
+
+(**) works best without self-revive and without body armor; buy body armor and self-revive after activating this cheat for best results;
+still depletes over time but takes a very long time to do so; can't guarantee it's effectiveness with body armor and self-revive, but without works better than any other such mod available
+
+--Custom Memory Hack:  input your custom offset and bytes information here--can be used with any game as long as you connect + attach after the game is running
+
+-------------------------------------------------------------------------------------------------------------------------------------
+
+# SPRX
+
+--Download:  
+
+https://github.com/stayboogy/stayboogyUP_PS3-MW3-Solo-Survival-Hacks/releases/tag/stayboogyUP-22.11.25.rtm.sprx
+
+--Requirements: 
+
+CEX CFW 4.88 Cobra Mode On (Use EVILNAT, all others are garbage), FTP or File Manager
+
+--Install:  
+
+Extract the zip, copy the EBOOT.BIN to the game's USDIR folder, copy the stayboogyUP.sprx to /hdd0/tmp folder
+
+--How to Use:  
+
+Nothing to do; cheats are activated on a revovling basis and do not crash the game or give you unintended consequences
+All the Same features of the RTM except NO GOD MODE.  The SPRX is more for those who don't ever require God Mode.
 ## Screenshots
 
-![App Screenshot](https://github.com/stayboogy/stayboogyUP_PS3-MW3-Solo-Survival-Hacks/tree/main/stayboogyUP-RTM/screenshots/RTM1.png)
+![App Screenshot](https://github.com/stayboogy/stayboogyUP_PS3-MW3-Solo-Survival-Hacks/blob/main/stayboogyUP-RTM/screenshots/RTM1.png)
 
-![App Screenshot](https://github.com/stayboogy/stayboogyUP_PS3-MW3-Solo-Survival-Hacks/tree/main/stayboogyUP-RTM/screenshots/RTM2.png)
+![App Screenshot](https://github.com/stayboogy/stayboogyUP_PS3-MW3-Solo-Survival-Hacks/blob/main/stayboogyUP-RTM/screenshots/RTM2.png)
 
-![App Screenshot](https://github.com/stayboogy/stayboogyUP_PS3-MW3-Solo-Survival-Hacks/tree/main/stayboogyUP-RTM/screenshots/RTM3.png)
+![App Screenshot](https://github.com/stayboogy/stayboogyUP_PS3-MW3-Solo-Survival-Hacks/blob/main/stayboogyUP-RTM/screenshots/RTM3.png)
 
-![App Screenshot](https://github.com/stayboogy/stayboogyUP_PS3-MW3-Solo-Survival-Hacks/tree/main/stayboogyUP-RTM/screenshots/RTM4.png)
+![App Screenshot](https://github.com/stayboogy/stayboogyUP_PS3-MW3-Solo-Survival-Hacks/blob/main/stayboogyUP-RTM/screenshots/RTM4.png)
 
-![App Screenshot](https://github.com/stayboogy/stayboogyUP_PS3-MW3-Solo-Survival-Hacks/tree/main/stayboogyUP-RTM/screenshots/RTM5.png)
+![App Screenshot](https://github.com/stayboogy/stayboogyUP_PS3-MW3-Solo-Survival-Hacks/blob/main/stayboogyUP-RTM/screenshots/RTM5.png)
 
-![App Screenshot](https://github.com/stayboogy/stayboogyUP_PS3-MW3-Solo-Survival-Hacks/tree/main/stayboogyUP-RTM/screenshots/RTM6.png)
-
-
-
-## Mods
-
-1) Connect + Attach
-
--Connects + Attaches to PS3 running Modern Warfare 3
-
-(must already be in game at either a menu or already playing)
-
-(connects automatically using ccapi only, attaches to running process without input)
-
-2) stayboogyUP
-
--All Perks (you have all perks even though they don't show in hud)
-
--Ammo Loaded (only for what you already own - use after all upgrades to see effects)
-
-3) God Mode
-
--God Mode (only working version of this for solo survival offline non-host)
-
-(depletes over time - works better with no armor - works best without self revive)
-
-4) Disconnect 
-
--Disconnect from PS3
-
-5) Soft Reboot
-
--Soft Reboots PS3 to XMB
-
-6) Custom Memory Hack
-
--takes an offset address input in the top box (0x10101010 = 10101010)
-
--takes bytes input in the bottom box (0x99 0x00 0xFF = 9900FF)
+![App Screenshot](https://github.com/stayboogy/stayboogyUP_PS3-MW3-Solo-Survival-Hacks/blob/main/stayboogyUP-RTM/screenshots/RTM6.png)
 
 
 

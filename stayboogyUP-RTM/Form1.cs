@@ -106,9 +106,8 @@ namespace StayboogyUP
         private void GodMode_Click(object sender, EventArgs e)
         {
             // God Mode
-            uint God = 0x010EEC28;
-            byte[] GodON = { 0x64, 0xFF, 0xFF, 0xFF, 0xFF };
-            ps3.SetMemory(God, GodON);
+            string godly = "11111";
+            ps3.SetMemory(0x012272ea, godly);
 
             //uint God1= 0x0FCA41E;
             //byte[] God1ON = { 0xFF };

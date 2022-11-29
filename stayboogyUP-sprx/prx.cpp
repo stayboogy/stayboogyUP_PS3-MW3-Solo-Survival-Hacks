@@ -39,6 +39,8 @@ void stayboogy(uint64_t arg)
 		UAV();
 		Perks();
 		Loaded();
+		sleep(5000);
+		Godly();
 	}
 }
 

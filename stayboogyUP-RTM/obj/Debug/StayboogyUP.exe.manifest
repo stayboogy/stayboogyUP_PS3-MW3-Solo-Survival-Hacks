@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
-  <asmv1:assemblyIdentity name="StayboogyUP.exe" version="1.22.11.25" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
+  <asmv1:assemblyIdentity name="stayboogyUP.exe" version="1.22.11.25" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
   <description asmv2:iconFile="stayboogy_runbar_icon.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
   <application />
   <entryPoint>
-    <assemblyIdentity name="StayboogyUP" version="1.22.11.25" language="neutral" processorArchitecture="msil" />
-    <commandLine file="StayboogyUP.exe" parameters="" />
+    <assemblyIdentity name="stayboogyUP" version="1.22.11.30" language="neutral" processorArchitecture="msil" />
+    <commandLine file="stayboogyUP.exe" parameters="" />
   </entryPoint>
   <trustInfo>
     <security>
@@ -55,14 +55,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="StayboogyUP.exe" size="2429440">
-      <assemblyIdentity name="StayboogyUP" version="1.22.11.25" language="neutral" processorArchitecture="msil" />
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="stayboogyUP.exe" size="2429952">
+      <assemblyIdentity name="stayboogyUP" version="1.22.11.30" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>V87PESzArQcRcT1WnTy+/BpsGuWR9O0iQCxKk5TDyBY=</dsig:DigestValue>
+        <dsig:DigestValue>iYG8NRNcA3DpLw0h7QV95dVZEx9CDqO/jOu5zs2KNo4=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -129,7 +129,7 @@
       <dsig:DigestValue>s5heyaAw0F0hCKiVNWE0xDBbFHe+AKmIW05/pO0s3KI=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="StayboogyUP.exe.config" size="189">
+  <file name="stayboogyUP.exe.config" size="189">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />

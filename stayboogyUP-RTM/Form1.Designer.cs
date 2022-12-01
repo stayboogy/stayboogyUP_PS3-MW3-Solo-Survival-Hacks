@@ -39,6 +39,7 @@
             this.CustomCode = new System.Windows.Forms.Button();
             this.label1 = new System.Windows.Forms.Label();
             this.stayboogyLink = new System.Windows.Forms.Label();
+            this.Manly = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // ConnectAttach
@@ -74,7 +75,7 @@
             this.GodMode.Location = new System.Drawing.Point(13, 120);
             this.GodMode.Margin = new System.Windows.Forms.Padding(6, 4, 6, 4);
             this.GodMode.Name = "GodMode";
-            this.GodMode.Size = new System.Drawing.Size(318, 38);
+            this.GodMode.Size = new System.Drawing.Size(148, 38);
             this.GodMode.TabIndex = 3;
             this.GodMode.Text = "God Mode";
             this.GodMode.UseVisualStyleBackColor = false;
@@ -158,12 +159,26 @@
             this.stayboogyLink.TextAlign = System.Drawing.ContentAlignment.TopCenter;
             this.stayboogyLink.Click += new System.EventHandler(this.stayboogyLink_Click);
             // 
+            // Manly
+            // 
+            this.Manly.BackColor = System.Drawing.SystemColors.Control;
+            this.Manly.Font = new System.Drawing.Font("Comic Sans MS", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.Manly.Location = new System.Drawing.Point(173, 120);
+            this.Manly.Margin = new System.Windows.Forms.Padding(6, 4, 6, 4);
+            this.Manly.Name = "Manly";
+            this.Manly.Size = new System.Drawing.Size(158, 38);
+            this.Manly.TabIndex = 11;
+            this.Manly.Text = "Manly";
+            this.Manly.UseVisualStyleBackColor = false;
+            this.Manly.Click += new System.EventHandler(this.Manly_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.WindowFrame;
             this.ClientSize = new System.Drawing.Size(352, 386);
+            this.Controls.Add(this.Manly);
             this.Controls.Add(this.stayboogyLink);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.CustomCode);
@@ -203,6 +218,7 @@
         private System.Windows.Forms.Button CustomCode;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label stayboogyLink;
+        private System.Windows.Forms.Button Manly;
     }
 }
 

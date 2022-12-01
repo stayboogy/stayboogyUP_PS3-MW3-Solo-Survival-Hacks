@@ -7,8 +7,8 @@
     <ProjectGuid>{2F520939-9021-4BE6-AA20-C97C138776CB}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>StayboogyUP</RootNamespace>
-    <AssemblyName>StayboogyUP</AssemblyName>
+    <RootNamespace>stayboogyUP</RootNamespace>
+    <AssemblyName>stayboogyUP</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -112,6 +112,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <EmbeddedResource Include="CCAPI-install.cmd">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>

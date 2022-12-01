@@ -37,6 +37,7 @@ namespace StayboogyUP
             textBox2.Text = "bytes: 0x00 0x00 = 0000";
             textBox1.Enabled = false;
             textBox2.Enabled = false;
+            Manly.Enabled = false;
         }
 
         private void ConnectAttach_Click(object sender, EventArgs e)
@@ -63,8 +64,6 @@ namespace StayboogyUP
                     textBox2.Text = "";
                     textBox1.Enabled = true;
                     textBox2.Enabled = true;
-
-
                 }
                 else
                 {
@@ -109,12 +108,23 @@ namespace StayboogyUP
             string godly = "11111";
             ps3.SetMemory(0x012272ea, godly);
 
-            //uint God1= 0x0FCA41E;
-            //byte[] God1ON = { 0xFF };
-            //ps3.SetMemory(God1, God1ON);
+            // Notification Toast
+            ps3.Notify(CCAPI.NotifyIcon.INFO, "God Mode!");
+            GodMode.Enabled = false;
+            Manly.Enabled = true;
+            Manly.ForeColor = Color.Blue;
+        }
+
+        private void Manly_Click(object sender, EventArgs e)
+        {
+            // God Mode
+            string manly = "00000";
+            ps3.SetMemory(0x012272ea, manly);
 
             // Notification Toast
-            ps3.Notify(CCAPI.NotifyIcon.INFO, "God Mode?");
+            ps3.Notify(CCAPI.NotifyIcon.INFO, "Just a Man!");
+            GodMode.Enabled = true;
+            Manly.Enabled = false;
         }
 
         private void Disconnect_Click(object sender, EventArgs e)

@@ -28,7 +28,6 @@ namespace StayboogyUP
         private void Form1_Load(object sender, EventArgs e)
         {
             MessageBox.Show("stayboogyUP PS3 MW3 Solo Survival RTM Tool \n\n1) Make sure your PS3 is powered on. \n\n2) Make sure your PS3 is connected to the same network as your computer. \n\n3) Make sure MW3 is already running.");
-            MessageBox.Show("stayboogyUP - gives All Perks + Lots of Ammo for everything you already own - don't own it won't get ammo for it \n\nGod Mode - the only God Mode available in survival - depletes eventually \n\nDisconnect - Disconnect from PS3 \n\nSoftReboot - Soft Reboots to XMB \n\nCustom Memory Hack - set memory to custom values \noffset: 0x10101010 = 10101010 \nbytes: 0x00 0x00 = 0000");
             Disconnect.Enabled = false;
             stayboogyUP.Enabled = false;
             GodMode.Enabled = false;

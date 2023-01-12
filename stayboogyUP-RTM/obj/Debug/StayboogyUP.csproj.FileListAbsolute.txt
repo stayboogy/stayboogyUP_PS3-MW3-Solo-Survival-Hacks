@@ -43,7 +43,6 @@ C:\Users\M\Desktop\GIT\stayboogyUP_PS3-MW3-Solo-Survival-Hacks\stayboogyUP-RTM\b
 C:\Users\M\Desktop\GIT\stayboogyUP_PS3-MW3-Solo-Survival-Hacks\stayboogyUP-RTM\bin\Debug\stayboogyUP.application
 C:\Users\M\Desktop\GIT\stayboogyUP_PS3-MW3-Solo-Survival-Hacks\stayboogyUP-RTM\bin\Debug\stayboogyUP.exe
 C:\Users\M\Desktop\GIT\stayboogyUP_PS3-MW3-Solo-Survival-Hacks\stayboogyUP-RTM\bin\Debug\stayboogyUP.pdb
-C:\Users\M\Desktop\GIT\stayboogyUP_PS3-MW3-Solo-Survival-Hacks\stayboogyUP-RTM\obj\Debug\stayboogyUP.csprojResolveAssemblyReference.cache
 C:\Users\M\Desktop\GIT\stayboogyUP_PS3-MW3-Solo-Survival-Hacks\stayboogyUP-RTM\obj\Debug\StayboogyUP.Form1.resources
 C:\Users\M\Desktop\GIT\stayboogyUP_PS3-MW3-Solo-Survival-Hacks\stayboogyUP-RTM\obj\Debug\stayboogyUP.Properties.Resources.resources
 C:\Users\M\Desktop\GIT\stayboogyUP_PS3-MW3-Solo-Survival-Hacks\stayboogyUP-RTM\obj\Debug\stayboogyUP.csproj.GenerateResource.Cache

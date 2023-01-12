@@ -55,14 +55,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="stayboogyUP.exe" size="2429952">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="stayboogyUP.exe" size="2428928">
       <assemblyIdentity name="stayboogyUP" version="1.22.11.30" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>rI6iHCRCQ7QE+u4XBkt42v6uFrzYWtwKUJzdk8BPYy4=</dsig:DigestValue>
+        <dsig:DigestValue>zeaGzDOTKxzmCyFgNTpmHO1/OW3Rb6LLaXyZ2SXQ9Ro=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

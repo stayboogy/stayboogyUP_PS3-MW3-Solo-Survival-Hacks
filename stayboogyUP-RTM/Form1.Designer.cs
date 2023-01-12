@@ -151,11 +151,12 @@
             // stayboogyLink
             // 
             this.stayboogyLink.AutoSize = true;
+            this.stayboogyLink.Font = new System.Drawing.Font("Comic Sans MS", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.stayboogyLink.Location = new System.Drawing.Point(19, 4);
             this.stayboogyLink.Name = "stayboogyLink";
-            this.stayboogyLink.Size = new System.Drawing.Size(303, 20);
+            this.stayboogyLink.Size = new System.Drawing.Size(318, 18);
             this.stayboogyLink.TabIndex = 10;
-            this.stayboogyLink.Text = "stayboogyUP MW3 Solo Survival RTM Tool";
+            this.stayboogyLink.Text = "stayboogyUP MW3 Solo Survival + Chaos RTM Tool";
             this.stayboogyLink.TextAlign = System.Drawing.ContentAlignment.TopCenter;
             this.stayboogyLink.Click += new System.EventHandler(this.stayboogyLink_Click);
             // 

@@ -105,7 +105,7 @@ namespace StayboogyUP
         private void GodMode_Click(object sender, EventArgs e)
         {
             // God Mode
-            string godly = "11111";
+            string godly = "3831";
             ps3.SetMemory(0x012272ea, godly);
 
             // Notification Toast
@@ -118,7 +118,7 @@ namespace StayboogyUP
         private void Manly_Click(object sender, EventArgs e)
         {
             // God Mode
-            string manly = "00000";
+            string manly = "3830";
             ps3.SetMemory(0x012272ea, manly);
 
             // Notification Toast
